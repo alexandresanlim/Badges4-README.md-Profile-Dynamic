@@ -1,5 +1,16 @@
 # Badges4-README.md-Profile-Dynamic
 
+Improve your README.md profile with these amazing badges. See a sample [here](https://github.com/alexandresanlim)
+
+## How to use?
+
+1. Get a URL
+2. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
+3. Copy and paste on your profile
+
+
+#### To static badges follow here: [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
 ## Menu
 
 - [📈 Activity Graph](#-activity-graph-)
