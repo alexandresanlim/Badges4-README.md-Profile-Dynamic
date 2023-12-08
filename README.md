@@ -1,5 +1,17 @@
 # Badges4-README.md-Profile-Dynamic
 
+## Menu
+
+- [📈 Activity Graph](#-activity-graph-)
+- [📑 Gist Pin](#-gist-pin-)
+- [📄 Gists List Card](#-gists-list-card-)
+- [💳 Github Profile Summary Card](#-github-profile-summary-card-)
+- [📟 GitHub Stats](#-github-stats-)
+- [📊 Most Used Language](#-most-used-language-)
+- [🎯 Profile Hits Counter](#-profile-hits-counter-)
+- [⏱ Streak Stats](#-streak-stats-)
+- [🏆 Trophy Stats](#-trophy-stats-)
+
 ## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
 
 - Themes: `Default (cotton candy)`, `react`, `react-dark`, `github`, `github-compact`, `xcode`, `rogue`, `merko`, `vue`, `tokyo-night`, `high-contrast`
